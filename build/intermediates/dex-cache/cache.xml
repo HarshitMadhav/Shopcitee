@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Madhav\AndroidStudioProjects\Shopcite\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="689953a588774bd9ab3d83a3c5432ea9b24d8241">
+        <dex dex="C:\Users\Madhav\AndroidStudioProjects\Shopcite\app\build\intermediates\pre-dexed\debug\classes_c94c7a4bf03dfc1a9dad8b1b870db753ab411d39.jar" />
+    </item>
+
+</items>

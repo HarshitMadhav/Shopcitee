@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.sa90.materialarcmenu:library-1.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/92cad85b8db0d37d39a00e8feb9943e46857d2ae/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/92cad85b8db0d37d39a00e8feb9943e46857d2ae/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sa90.materialarcmenu/library/1.4/9d393cbbe34b8f0e7a5813b1afa97b566a466ae0/library-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
